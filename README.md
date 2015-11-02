@@ -1,2 +1,2 @@
-# fcl_catkin
+# FCL catkin
 Catkinized version of FCL (https://github.com/flexible-collision-library/fcl) library
